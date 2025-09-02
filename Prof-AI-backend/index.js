@@ -14,7 +14,7 @@ dotenv.config();
 //   apiKey: process.env.OPENAI_API_KEY || "-", // Your OpenAI API key here, I used "-" to avoid errors when the key is not set but you should not do that
 // });
 
-const elevenLabsApiKey = "sk_b458067b0d961693ffeed6a8dc11d598d3f5400988302321";
+const elevenLabsApiKey = "your_api_key";
 const voiceID = "Xb7hH8MSUJpSbSDYk0k2";
 
 const app = express();
